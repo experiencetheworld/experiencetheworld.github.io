@@ -28,14 +28,21 @@ repository               : # "https://github.com/experiencetheworld/" GitHub use
 teaser                   : /images/frontpage.JPG #  path of fallback teaser image, e.g. "/assets/images/500x300.png"
 
 
-avatar: url('/images/frontpage.JPG')
+#avatar: url('/images/frontpage.JPG')
 
 
 #background-image: url('/images/frontpage.JPG')
 #background-image: {{ site.baseurl }}/images/frontpage.JPG)
 # Build settings
 markdown: kramdown
-theme: minima
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+syntax_highlighter: rouge
+#theme: minima
 #jekyll-theme-midnight
 #plugins:
   #- jekyll-sitemap
