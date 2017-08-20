@@ -35,7 +35,8 @@ avatar: url('/images/frontpage.JPG')
 #background-image: {{ site.baseurl }}/images/frontpage.JPG)
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
+#jekyll-theme-midnight
 #plugins:
   #- jekyll-sitemap
   #- jekyll-feed

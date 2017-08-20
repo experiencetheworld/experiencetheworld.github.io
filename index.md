@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Test hello
+![_config.yml]({{ site.baseurl }}/images/frontpage.JPG)
+
+Welcome!
