@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hello World
+title:  Video Overview
 date:   2017-08-20 15:16:26 +0200
 categories: jekyll update
 ---
@@ -10,10 +10,10 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
+#{% highlight ruby %}
+#def print_hi(name)
+#  puts "Hi, #{name}"
+#end
+#print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+#{% endhighlight %}
