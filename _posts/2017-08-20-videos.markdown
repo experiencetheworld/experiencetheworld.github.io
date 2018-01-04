@@ -39,6 +39,7 @@ To the Canyons including Zion, Yellowstone:
 
 Thanksgiving weekend roadtrip:
 {% include youtubePlayer.html id="6fYg5JnDCtg" %}
+<br><br>
 
 Skiing in Snowbird, Utah:
 {% include youtubePlayer.html id="LrtFKW8CYEU" %}
