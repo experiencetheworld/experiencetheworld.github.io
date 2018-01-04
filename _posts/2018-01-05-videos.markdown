@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Europe Trip Videos
+date:   2018-01-05 15:16:26 +0200
+featured-img: /images/frontpage.JPG
+#categories: jekyll update
+---
+
+Collection of Videos covering Trips in Europe from 2015 until 2017!
+
+
+Roadtrip to the Czech Republic starting at Lake Constance:
+{% include youtubePlayer.html id="QrxBd_96UMY " %}
+<br><br>

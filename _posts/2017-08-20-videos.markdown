@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  USA Roadtrip Videos
+title:  USA Trip Videos
 date:   2017-08-20 15:16:26 +0200
 featured-img: /images/frontpage.JPG
 #categories: jekyll update
 ---
 
-Collection of Videos covering Trips in the US in 2016!
+Collection of Videos covering Trips in the US in 2016 and 2017!
 
 <!-- ![_config.yml]({{ site.baseurl }}/images/frontpage.JPG) -->
 
@@ -17,6 +17,14 @@ Holidays on Maui - Hawaii
 {% include youtubePlayer.html id="g2A_vxQCKlM" %}
 <br><br>
 
+Hiking Yosemite and Nevada Falls:
+{% include youtubePlayer.html id="4K0NheRGUVI" %}
+<br><br>
+
+Hiking along the Lost Coast:
+{% include youtubePlayer.html id="uT0qqhL746A" %}
+<br><br>
+
 Road trip to Crater Lake & Lassen National Park:
 {% include youtubePlayer.html id="35pb1aZb8xA" %}
 <br><br>
@@ -25,15 +33,20 @@ Yosemite hike to North Dome:
 {% include youtubePlayer.html id="Hfv2pLQZ0H0" %}
 <br><br>
 
-To the Canyons:
+To the Canyons including Zion, Yellowstone:
 {% include youtubePlayer.html id="a-8zuuz04Ew" %}
 <br><br>
 
-Thanksgiving weekend:
+Thanksgiving weekend roadtrip:
 {% include youtubePlayer.html id="6fYg5JnDCtg" %}
 
+Skiing in Snowbird, Utah:
+{% include youtubePlayer.html id="LrtFKW8CYEU" %}
+<br><br>
 
-
+Roadtrip along northern California and Oregon:
+{% include youtubePlayer.html id="epLab33XBFc" %}
+<br><br>
 
 
 
