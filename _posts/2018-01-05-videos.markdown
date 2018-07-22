@@ -6,8 +6,11 @@ featured-img: /images/frontpage.JPG
 #categories: jekyll update
 ---
 
-Collection of Videos covering Trips in Europe from 2015 until 2017!
+Collection of Videos covering Trips in Europe from 2015 until 2018!
 
+Hiking the Dolorama track for 3 days in May 2018:
+{% include youtubePlayer.html id="WLgNgtGp0Ss" %}
+<br><br>
 
 Roadtrip to the Czech Republic starting at Lake Constance:
 {% include youtubePlayer.html id="QrxBd_96UMY " %}
