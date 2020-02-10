@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Around the World Videos
+title:  Europe
 date:   2018-02-16 15:16:26 +0200
 featured-img: /images/frontpage.JPG
 #categories: jekyll update
