@@ -1,18 +1,17 @@
 ---
 layout: post
 title:  Europe
-date:   2018-02-16 15:16:26 +0200
+date:   2020-02-16 15:16:26 +0200
 featured-img: /images/frontpage.JPG
 #categories: jekyll update
 ---
 
-Collection of videos from all around the world just getting started:
+Collection of Videos covering Trips in Europe from 2015 until 2018!
 
-
-Christmas 2016 in Yucatan (Mexico):
-{% include youtubePlayer.html id="3iHdRsXJMcI" %}
+Hiking the Dolorama track for 3 days in May 2018:
+{% include youtubePlayer.html id="WLgNgtGp0Ss" %}
 <br><br>
 
-9 Days in Panama:
-{% include youtubePlayer.html id="wLF9La1Jh7M" %}
+Roadtrip to the Czech Republic starting at Lake Constance:
+{% include youtubePlayer.html id="QrxBd_96UMY " %}
 <br><br>
