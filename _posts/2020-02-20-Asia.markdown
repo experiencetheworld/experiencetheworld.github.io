@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Asia
-date:   2020-02-10 18:26:26 +0200
+date:   2020-02-10 18:50:26 +0200
 featured-img: /images/frontpage.JPG
 #categories: jekyll update
 ---
@@ -9,10 +9,10 @@ featured-img: /images/frontpage.JPG
 Collection of videos from all around the world just getting started:
 
 Hiking the Gokyo and Everest Base Camp Trek in Nepal:
-{% include youtubePlayer.html id="3iHdRsXJMcI" %}
+{% include youtubePlayer.html id="6RaW9L-6Mp8" %}
 <br><br>
 
-Spending some time in the South of India for visiting Sarah an dNishants wedding
+Spending some time in the South of India for visiting Sarah and Nishants wedding
 {% include youtubePlayer.html id="Ynhh59MFUrI" %}
 <br><br>
 

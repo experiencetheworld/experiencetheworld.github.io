@@ -1,12 +1,30 @@
 ---
 layout: post
 title:  Europe
-date:   2020-02-10 18:16:26 +0200
+date:   2020-02-10 18:56:26 +0200
 featured-img: /images/frontpage.JPG
 #categories: jekyll update
 ---
 
 Collection of Videos covering Trips in Europe from 2015 until 2018!
+
+
+Mountain Biking in Finale Ligure:
+{% include youtubePlayer.html id="2jwYfwvYC2A" %}
+<br><br>
+
+Some impression from a weekend hike in Stubaital, 2018:
+{% include youtubePlayer.html id="B-Fi5yRdEOg" %}
+<br><br>
+
+Mountain Biking @ Lago di Garda, 2018:
+{% include youtubePlayer.html id="w7Juhk_rdwE" %}
+<br><br>
+
+Trip to Athens and Santorini in 2017:
+{% include youtubePlayer.html id="4CkJsMrK-Sc" %}
+<br><br>
+
 
 Hiking the Dolorama track for 3 days in May 2018:
 {% include youtubePlayer.html id="WLgNgtGp0Ss" %}
@@ -15,3 +33,6 @@ Hiking the Dolorama track for 3 days in May 2018:
 Roadtrip to the Czech Republic starting at Lake Constance:
 {% include youtubePlayer.html id="QrxBd_96UMY " %}
 <br><br>
+
+
+
