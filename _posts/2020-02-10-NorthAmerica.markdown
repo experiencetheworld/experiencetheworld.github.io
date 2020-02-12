@@ -50,7 +50,7 @@ Roadtrip along northern California and Oregon:
 <br><br>
 
 Weekend at Lake Tahoe:
-{% include youtubePlayer.html id="epLab33XBFc" %}
+{% include youtubePlayer.html id="2vRCrK_fs3o" %}
 <br><br>
 
 

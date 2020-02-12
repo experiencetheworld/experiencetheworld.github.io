@@ -10,7 +10,7 @@ Collection of Videos covering Trips in Europe from 2015 until 2018!
 
 
 Mountain Biking in Finale Ligure:
-{% include youtubePlayer.html id="2jwYfwvYC2A" %}
+{% include youtubePlayer.html id="2jwYfwvYC2A" %} 
 <br><br>
 
 Some impression from a weekend hike in Stubaital, 2018:
