@@ -2,11 +2,11 @@
 layout: post
 title:  Asia
 date:   2020-02-10 18:50:26 +0200
-featured-img: /images/frontpage.JPG
+featured-img: /images/nepal.jpg
 #categories: jekyll update
 ---
 
-Collection of videos from all around the world just getting started:
+Collection of videos from all around Asia:
 
 Hiking the Gokyo and Everest Base Camp Trek in Nepal:
 {% include youtubePlayer.html id="6RaW9L-6Mp8" %}

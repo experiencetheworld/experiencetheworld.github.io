@@ -2,11 +2,11 @@
 layout: post
 title:  Europe
 date:   2020-02-10 18:56:26 +0200
-featured-img: /images/frontpage.JPG
+featured-img: /images/budapest.jpg
 #categories: jekyll update
 ---
 
-Collection of Videos covering Trips in Europe from 2015 until 2018!
+Collection of Videos covering Trips in Europe from 2015 until today!
 
 
 Mountain Biking in Finale Ligure:

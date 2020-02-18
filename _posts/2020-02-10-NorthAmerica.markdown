@@ -2,7 +2,7 @@
 layout: post
 title:  North America
 date:   2020-02-10 18:36:26 +0200
-featured-img: /images/frontpage.JPG
+featured-img: /images/northamerica.jpg
 #categories: jekyll update
 ---
 

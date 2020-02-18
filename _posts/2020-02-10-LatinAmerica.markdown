@@ -2,7 +2,7 @@
 layout: post
 title:  Latin America
 date:   2020-02-10 18:46:26 +0200
-featured-img: /images/frontpage.JPG
+featured-img: /images/belize.jpg
 #categories: jekyll update
 ---
 
